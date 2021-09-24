@@ -1,7 +1,7 @@
 import Image from 'next/image';
 export default {
   github: 'https://github.com/Zype-Z/ShareImage.js',
-  docsRepositoryBase: 'https://github.com/Rajdeep-TG/ShareImage-Documentation/blob/main',
+  docsRepositoryBase: 'https://github.com/Zype-Z/ShareImage-Docs/blob/main',
   titleSuffix: ' – ShareImage',
   logo: (
     <>
@@ -18,8 +18,8 @@ export default {
       <meta name="og:description" content="ShareImage: Generate Social Images with OpenSource!" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="https://shimg.zype.cf/v1/image?title=Docs to Get Started&cloudName=zype&imagePublicID=ShareImage/Docs-Card" />
-      <meta name="twitter:site:domain" content="shimg.zype.cf" />
-      <meta name="twitter:url" content="https://shimg.zype.cf" />
+      <meta name="twitter:site:domain" content="docs.shimg.zype.cf" />
+      <meta name="twitter:url" content="https://docs.shimg.zype.cf" />
       <meta name="og:title" content="ShareImage: Generate Social Images with OpenSource!" />
       <meta name="og:image" content="https://shimg.zype.cf/v1/image?title=Docs to Get Started&cloudName=zype&imagePublicID=ShareImage/Docs-Card" />
       <meta name="apple-mobile-web-app-title" content="ShareImage" />
