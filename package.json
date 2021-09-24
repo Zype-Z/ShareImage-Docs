@@ -1,0 +1,30 @@
+{
+    "name": "nextra",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next",
+        "start": "next start",
+        "build": "next build"
+    },
+    "author": "Zype Inc. <oss@zype.cf>",
+    "license": "MIT",
+    "dependencies": {
+        "next": "^11.0.1",
+        "nextra": "^1.1.0",
+        "nextra-theme-docs": "^1.2.2",
+        "react": "^17.0.1",
+        "react-dom": "^17.0.1",
+        "sharp": "^0.29.1"
+    },
+    "devDependencies": {
+        "eslint": "7.32.0",
+        "eslint-config-next": "11.1.2",
+        "prettier": "^2.0.5"
+    },
+    "prettier": {
+        "semi": false,
+        "singleQuote": true
+    }
+}
