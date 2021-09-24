@@ -60,5 +60,5 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
-  footerText: <>Copyright {new Date().getFullYear()} © Zype Inc.</>,
+  footerText: <>Copyright {new Date().getFullYear()} © Zype Inc. <a href="https://vercel.com/?utm_source=zypeoss&utm_campaign=oss"><img src="https://res.cloudinary.com/zype/image/upload/ShareImage/powered-by-vercel.png" alt="Powered by Vercel" /></a></>,
 }
