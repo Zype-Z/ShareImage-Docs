@@ -2,7 +2,7 @@ import Image from 'next/image';
 export default {
   github: 'https://github.com/Zype-Z/ShareImage.js',
   docsRepositoryBase: 'https://github.com/Zype-Z/ShareImage-Docs/blob/main',
-  titleSuffix: ' – ShareImage',
+  titleSuffix: ' – ShareTemplate Docs',
   logo: (
     <>
       <Image src="/logoFull.png" alt="ShareImage Logo" height="45" width="245" align="center"/>
